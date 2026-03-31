@@ -25,5 +25,4 @@ This project analyzes customer churn behavior using a telecom dataset. The goal 
 ## 📌 Conclusion
 Providing better customer support, offering long-term contracts, and optimizing pricing strategies can help reduce churn.
 
-## 📷 Dashboard
-(Add your dashboard screenshot here)
+
